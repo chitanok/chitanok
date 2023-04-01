@@ -4,3 +4,5 @@ phpinfo();
 
 echo 'new line';
 
+print 'OK';
+
